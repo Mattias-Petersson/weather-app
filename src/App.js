@@ -7,6 +7,7 @@ import Navbar from './Navbar';
 import Locationform from './Locationform'
 import { Routes, Route } from "react-router-dom";
 
+
 export default class App extends Component {
 
   renderPageContent() {

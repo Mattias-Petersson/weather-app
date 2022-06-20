@@ -1,5 +1,5 @@
 import logo from './logo.svg';
-
+import text from './apikey.js'
 export default function Home() {
     return (
         <div className="App">
